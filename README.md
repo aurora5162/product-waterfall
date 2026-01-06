@@ -32,39 +32,32 @@ https://github.com/user-attachments/assets/971fee4b-7250-4244-97bd-d705b71c1d68
 
 ## Project Structure
 
-server/
-    app.js
-    routes/
-    utils/
-    data_alibaba/
-    data_1688/
-public/
-    index.html
-    css/
-    js/
-.env
-package.json
-README.md
+- server/
+-   app.js
+-   routes/
+-   utils/
+-   data_alibaba/
+-   data_1688/
+- public/
+-   index.html
+-   css/
+-   js/
+- .env
+- package.json
+- README.md
 
 ## Installation
 
-```bash
-git clone <repo_url>
-cd product-waterfall
-npm install
-node server/app.js
+- git clone <repo_url>
+- cd product-waterfall
+- npm install
+- node server/app.js
 
-## Usage
+## 💼 Services
 
-Open http://localhost:66 in your browser.
-
-Select a source (Alibaba / 1688)
-
-Pick a date to load products
-
-Toggle video-only view
-
-Download product media as ZIP
-
-Check download counts
-
+- Open http://localhost:66 in your browser.
+- Select a source (Alibaba / 1688)
+- Pick a date to load products
+- Toggle video-only view
+- Download product media as ZIP
+- Check download counts
